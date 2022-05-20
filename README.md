@@ -1,6 +1,7 @@
 仓库接口：
 
 https://fastly.jsdelivr.net/gh/artxia/FreedTV/
+
 https://fastly.jsdelivr.net/gh/tvboxep/FreeD/
 
 #### 安装教程
