@@ -1,6 +1,9 @@
-仓库：
+仓库接口：
 
 https://fastly.jsdelivr.net/gh/artxia/FreedTV/
+
+
+
 #### 安装教程
 
 下载地址：https://wwi.lanzoui.com/b025mpw7e <br> <br>
